@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Java Full Stack Developer with knowledge of HTML, CSS, JavaScript, React.js, Java, Spring Boot, Hibernate, and MySQL. I enjoy building responsive and user-friendly web applications with clean and efficient code.<br><br>I have completed training in Frontend Development as well as Java Full Stack Development, where I learned technologies like Spring Boot, Hibernate, REST APIs, and database management. I am continuously improving my skills by working on real-world projects and learning modern development practices.
+I am a passionate Java Full Stack Developer with knowledge of JavaScript, React.js, Java, Spring Boot, Hibernate, and MySQL. I enjoy building responsive and user-friendly web applications with clean and efficient code.<br><br>I have completed training in Frontend Development as well as Java Full Stack Development, where I learned technologies like Spring Boot, Hibernate, REST APIs, and database management. I am continuously improving my skills by working on real-world projects and learning modern development practices.
 
 
 ## 🌐 Socials:
